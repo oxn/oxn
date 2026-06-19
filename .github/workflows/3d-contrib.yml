@@ -1,0 +1,38 @@
+name: 3D Contrib
+
+on:
+  schedule:
+    # UTC 0点 = 北京时间早上8点，如需北京时间0点改为 cron: "0 16 * * *"
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    # 修复：添加仓库读写权限，保障生成svg后可提交推送
+    permissions:
+      contents: write
+    steps:
+      # 修复：升级 checkout 至v4，兼容新版Node运行时
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          # 方案A：仅需要公开仓库数据（无需私有库）
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 方案B：需要包含私有仓库全部提交（推荐，替换为你创建的PAT）
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # 可选拓展参数示例（按需添加）
+          # MAX_REPOS: 150
+          # YEAR: 2026
+
+      # 自动提交生成的3d图表svg文件
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Auto update 3D contribution chart" || echo "No changes to commit"
+          git push
