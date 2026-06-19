@@ -1,0 +1,42 @@
+name: Snake Contrib
+
+on:
+  schedule:
+    # UTC 0点 = 北京时间早上8点
+    - cron: "0 0 * * *"
+  # 允许手动运行
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # 修复1：必须拉取仓库代码，否则推送工具失效
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 生成明暗两套贪吃蛇SVG
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # 修复2：传入你的PAT，读取私有仓库全部提交记录
+          token: ${{ secrets.METRICS_TOKEN }}
+          outputs: |
+            dist/profile-snake-contrib/github-contribution-grid-snake.svg
+            dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 修复3：推送至独立output分支，不污染main主分支，升级action至v4
+      - name: Push snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          # 推送仓库用内置token足够
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
