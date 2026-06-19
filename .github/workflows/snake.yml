@@ -15,7 +15,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # 修复1：必须拉取仓库代码，否则推送工具失效
+      # 拉取仓库代码，推送依赖此步骤
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -24,13 +24,13 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # 修复2：传入你的PAT，读取私有仓库全部提交记录
-          token: ${{ secrets.METRICS_TOKEN }}
+          # 关键修复：参数名改为 github_token，不再使用 token
+          github_token: ${{ secrets.METRICS_TOKEN }}
           outputs: |
             dist/profile-snake-contrib/github-contribution-grid-snake.svg
             dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 修复3：推送至独立output分支，不污染main主分支，升级action至v4
+      # 推送生成文件到独立 output 分支，不污染主分支
       - name: Push snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -38,5 +38,5 @@ jobs:
           build_dir: dist
           keep_history: true
         env:
-          # 推送仓库用内置token足够
+          # 推送仅需要内置临时token
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
