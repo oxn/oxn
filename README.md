@@ -73,7 +73,7 @@
 
 <tr><td>
 
-### 📃 博文推荐
+## 📝 最新博客
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/astronaut.png" />
 
