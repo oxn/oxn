@@ -28,7 +28,7 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-![](./sponsors.png)
+![](./guanggaowei.webp)
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/guoqisun" target="_blank">
