@@ -1,0 +1,34 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # UTC 0点 = 北京时间早上8点自动更新
+    - cron: '0 0 * * *'
+  # 支持手动点击运行
+  workflow_dispatch
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    # 授予修改、提交README文件权限
+    permissions:
+      contents: write
+    steps:
+      # 必加：拉取仓库代码，否则找不到README
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate WakaTime coding stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO: false
+          SHOW_PROJECTS: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_TITLE: true
