@@ -107,7 +107,7 @@
 
 <tr><td>
 
-### 📊 WakaTime 这部分内容是小孙同学的，放在这就是为了好看⬇️
+### 📊 WakaTime
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
