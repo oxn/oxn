@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);这是偷来的需要去小孙同学家里&center=true&size=27)](https://github.com/sun0225SUN)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);偷小孙同学的，👆去他家！&center=true&size=27)](https://github.com/sun0225SUN)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/coding.gif" />
@@ -13,13 +13,13 @@
 <div>
   <a href="https://x.com/cycyhnb"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href="https://www.youtube.com/@怸歪"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://776789.xyz/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://776789.xyz/"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href="https://776789.xyz/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://cycy.fun/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href="https://776789.xyz/zz"><img src="https://img.shields.io/badge/￥￥￥$$$-资助-07c160" /></a>&emsp;
+  <a href="https://space.bilibili.com/3707012544202886"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=oxn&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
-  <a href="https://wakatime.com/@oxn"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+  <a href="https://wakatime.com/@oxn"><img src="https://wakatime.com/badge/user/e94a1dac-ef03-4ad8-a0d5-101dde104813.svg" /></a>
 </div>
 
 <picture>
@@ -28,10 +28,13 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-![](./guanggaowei.webp)
-
 <div align="center">
-<a href="https://www.buymeacoffee.com/guoqisun" target="_blank">
+
+<a href="https://cycy.fun/lyb" target="_blank">
+  <img src="./guanggaowei.webp" alt="Buy Me A Coffee" style="max-width:100%; height:auto;" />
+</a>
+
+<a href="https://www.buymeacoffee.com/cycyhnb" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
 </a>
 
@@ -39,47 +42,47 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://files.guoqi.dev/wxpay.png" width="250px"  alt="wxpay" style="border-radius:10px;" />
+        <img src="https://776789.xyz/img/wxsk.webp" width="250px"  alt="wxpay" style="border-radius:10px;" />
       </td>
       <td align="center">
-        <img src="https://files.guoqi.dev/alipay.jpg" width="250px"  alt="alipay" style="border-radius:10px;" />
+        <img src="https://776789.xyz/img/zfbsk.webp" width="250px"  alt="alipay" style="border-radius:10px;" />
       </td>
     </tr>
   </tbody>
 </table> -->
 </div>
 </div>
+<div>&nbsp;</div>
 
 
 #  🙋 你好！
-
+<div align="center">
 <table>
-
 <tr><td>
 
 ### 🤺 关于我：
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;一个浑浑噩噩的八零后没什么可说的</p>
-<p>&emsp;&emsp;这个是小孙同学的模版我还在慢慢消化中。</p>
-<p>&emsp;&emsp;让我们拭目以待吧。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;一个浑浑噩噩的八零后，网上都调侃我们：</p>
+&emsp;&emsp;上小学的时候，大学是不要钱的；上大学的时候，小学是不要钱的；
+<br>&emsp;&emsp;当他们没有参加工作的时候，工作是分配的；当他们参加工作的时候，打破脑袋才能勉强混一个糊口的工作；<br>&emsp;&emsp;当他们不挣钱的时候，房子是分配的；当他们挣钱的时候，房子也买不起了。
+<p>&emsp;&emsp;<strong>总之没有那一代人是最幸福的，也没有那一代人是最不幸的，活在当下知足常乐！</strong></p>
 
 </tr></td>
 
 <tr><td>
 
-### 📃 最新博客
+### 📃 博文推荐
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jan 01 - [2025 → 2026，给时光以生命，待岁月以温柔！](https://blog.guoqi.dev/posts/2025/)
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kun-lun-chao/)
-- Mar 10 - [你好，北京！你好，原则科技！](https://blog.guoqi.dev/posts/yuan-ze-ke-ji/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xi-zang/)
+- 2021.12.15 - [游戏】红色警戒2共和国之辉win10绿色版](https://cycy.fun/2021/12/hongjing2gongheguozhihui/)
+- 2022.01.08 - [【分享】免费网盘永硕E盘ys168网盘界的活化石](https://cycy.fun/2022/01/ys168/)
+- 2025.01.14 - [【记录】自己做个动态的svg图，还挺有趣简单好玩](https://cycy.fun/2025/01/svgdongtaituzhizuo/)
+- 2025.02.17 - [【记录】关于大型便携式软件的使用心得及一些问题的解决](https://cycy.fun/2025/02/jilubianxieruanjian/)
+- 2026.06.15 - [顶级.XYZ域名50多元就能用十年，玩出新花样…………](https://cycy.fun/2026/06/xyz50yuan/)
 <!-- feed end -->
 
 </td></tr>
@@ -104,7 +107,7 @@
 
 <tr><td>
 
-### 📊 WakaTime
+### 📊 WakaTime 这部分内容是小孙同学的，放在这就是为了好看⬇️
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -144,13 +147,13 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/06/2026 02:29:19 UTC
+ Last Updated on 19/06/2026 02:29:19 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
 
 </table>
-
+</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
 
@@ -168,9 +171,9 @@ No Activity Tracked This Week
 
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=oxn&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=oxn&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxn&theme=dark&hide_border=true" />
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/right.png" />
 
@@ -180,9 +183,9 @@ No Activity Tracked This Week
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=oxn&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=oxn&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=oxn&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
