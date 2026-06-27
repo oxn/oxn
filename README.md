@@ -137,12 +137,11 @@
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@oxn/8f4650ce-81d3-41b9-867b-10727fd07386.svg" width="500" alt="每日编码时长"/></td>
+    <td><img src="https://wakatime.com/share/@oxn/d01270af-f3d5-41e9-b357-290fcdfe7b0a.svg" width="500" alt="编程语言占比"/></td>
   </tr>
 </table>
 
@@ -211,11 +210,16 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/github.webp">
 
+<div align="center">
 <picture>
+  <!-- 深色模式 -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-3d-contrib/profile-night-rainbow.svg" />
+  <!-- 浅色模式 -->
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-3d-contrib/profile-night-rainbow.svg" />
+  <!-- 兜底加载图 -->
+  <img width="900" src="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D 贡献统计">
 </picture>
+</div>
 
 </div>
 
@@ -254,7 +258,7 @@
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="100%" src="https://repobeats.axiom.co/api/embed/a34b9acf16525821d7fce41463f0e1aa83b36cc6.svg" alt="仓库活跃度统计图表">
 
 <img src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/icon.png" />
 </div>
