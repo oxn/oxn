@@ -269,7 +269,7 @@ No Activity Tracked This Week
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/github.webp">
 
-<div align="center">
+
 <picture>
   <!-- 深色模式 -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -278,7 +278,7 @@ No Activity Tracked This Week
   <!-- 兜底加载图 -->
   <img width="900" src="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D 贡献统计">
 </picture>
-</div>
+
 
 </div>
 
