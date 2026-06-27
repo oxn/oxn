@@ -193,20 +193,24 @@ No Activity Tracked This Week
   <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
     <br/></div>
 
-  <!-- WakaTime双图表表格，宽度100%自适应，手机自动压缩 -->
+  <!-- WakaTime双图表表格，宽度100%自适应，手机自动压缩 太空了我给隐藏了
   <table>
     <tr>
    <img style="max-width:100%;height:auto;" alt="每日编码时长" src="https://wakatime.com/share/@oxn/8f4650ce-81d3-41b9-867b-10727fd07386.svg"/>
   <img style="max-width:100%;height:auto;" alt="编程语言占比" src="https://wakatime.com/share/@oxn/d01270af-f3d5-41e9-b357-290fcdfe7b0a.svg"/>
     </tr>
   </table>
-</div>
+</div>  -->
 
 <!-- 底部分割线 -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
 
 <div align="center">
   <img alt="人物插画" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/man.png" width="250" height="250" />
+
+---
+
+**注意：以下语言⬇️**
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -240,7 +244,19 @@ No Activity Tracked This Week
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+**均不懂 ⬆️**
+
+---
+
+**以下软件 ⬇️**
+
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" />
+
+**均不会 ⬆️**
+
+---
+
+**以下技术 ⬇️**
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -264,6 +280,10 @@ No Activity Tracked This Week
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/github.webp">
+
+**均不行 ⬆️**
+
+---
 
 <picture>
   <!-- 深色模式 -->
@@ -298,18 +318,22 @@ No Activity Tracked This Week
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
-  <tr>
+    <!-- 这个stackoverflow.com 注册不了！md
+    <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/wakatime.svg" alt="wakatime" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
+    --> 
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
+    <!-- 这两个太占地方了！
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
+   --> 
 </table>
 
 <img width="100%" src="https://repobeats.axiom.co/api/embed/a34b9acf16525821d7fce41463f0e1aa83b36cc6.svg" alt="仓库活跃度统计图表">
