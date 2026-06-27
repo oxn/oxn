@@ -13,7 +13,7 @@
   <div>&nbsp;</div>
 
   <!-- 社交账号、访客统计、WakaTime徽章集合 -->
-  <div align="center">
+  <div>
     <a href="https://x.com/cycyhnb"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@怸歪"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://cycy.fun/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
@@ -33,11 +33,9 @@
   </picture>
 
   <!-- 留言板广告横幅100%自适应 + Buy Me A Coffee赞助按钮固定尺寸 -->
+  
+  ![](./sponsors.png)
   <div align="center">
-    <a href="https://cycy.fun/lyb" target="_blank">
-      <img style="max-width:100%;height:auto;" alt="留言板广告横幅" src="https://cdn.jsdelivr.net/gh/oxn/oxn/guanggaowei.webp" />
-    </a>
-    <br>
     <a href="https://www.buymeacoffee.com/cycyhnb" target="_blank">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee 赞助按钮" height="60" width="217" />
     </a>
@@ -130,7 +128,7 @@ No Activity Tracked This Week
 
 
 <!-- 分割线动图，限制宽度防止溢出 -->
-<img style="max-width:100%;height:auto;" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
 
 <div align="center">
   <!-- 中间跑步人物固定尺寸 -->
@@ -157,16 +155,13 @@ No Activity Tracked This Week
       <img style="max-width:calc(100% - 320px);height:auto;" alt="连续打卡统计" src="https://github-readme-streak-stats.herokuapp.com/?user=oxn&theme=dark&hide_border=true" />
     </picture>
 
-
-
-
   <img align="right" width="150" alt="右侧装饰图" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/right.png" />
 
   <!-- github-metrics 信息卡片自适应全屏 -->
-  <img salign="right" width="150" alt="GitHub数据总览" src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/base.svg" />
+<img src="https://cdn.jsdelivr.net/gh/oxn/oxn/github-metrics/base.svg" />
 
   <!-- 提交活动曲线图，表格100%宽度防止横向溢出 -->
-  <table width="100%">
+  <table>
     <tr>
       <td>
         <picture>
@@ -174,39 +169,33 @@ No Activity Tracked This Week
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=oxn&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
           <img style="max-width:100%;height:auto;" alt="提交活动曲线图" src="https://github-readme-activity-graph.vercel.app/graph?username=oxn&theme=xcode&bg_color=FF000000&hide_border=true" />
         </picture>
-      </td>
-    </tr>
-  </table>
+   </tr>
+</table>
+
 </div>
 
 <!-- 分割线动图，移除200%宽度，自适应页面防溢出 -->
-<img style="max-width:100%;height:auto;" alt="分割线" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
+<img width="200%" alt="分割线" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
 
 <div align="center">
   <!-- 人物头像固定尺寸 -->
   <img alt="人物头像" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/mb.png" width="250" height="250" />
 
   <!-- 横向语录卡片自适应 -->
-  <div>
-    <img style="max-width:100%;height:auto;" alt="Github语录卡片" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <br/>
-  </div>
+  <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <br/></div>
 
   <!-- WakaTime双图表表格，宽度100%自适应，手机自动压缩 -->
-  <table width="100%">
+  <table>
     <tr>
-      <td>
-        <img style="max-width:100%;height:auto;" alt="每日编码时长" src="https://wakatime.com/share/@oxn/8f4650ce-81d3-41b9-867b-10727fd07386.svg" />
-      </td>
-      <td valign="top" style="padding:5px;">
-        <img style="max-width:100%;height:auto;" alt="编程语言占比" src="https://wakatime.com/share/@oxn/d01270af-f3d5-41e9-b357-290fcdfe7b0a.svg" />
-      </td>
+      <td><img style="max-width:100%;height:auto;" alt="每日编码时长" src="https://wakatime.com/share/@oxn/8f4650ce-81d3-41b9-867b-10727fd07386.svg" /></td>
+      <td><img style="max-width:100%;height:auto;" alt="编程语言占比" src="https://wakatime.com/share/@oxn/d01270af-f3d5-41e9-b357-290fcdfe7b0a.svg" /></td>
     </tr>
   </table>
 </div>
 
 <!-- 底部分割线 -->
-<img style="max-width:100%;height:auto;" alt="分割线" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
 
 <div align="center">
   <img alt="人物插画" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/man.png" width="250" height="250" />
@@ -260,15 +249,14 @@ No Activity Tracked This Week
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/github.webp">
-
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <picture>
   <!-- 深色模式 -->
