@@ -195,7 +195,7 @@ No Activity Tracked This Week
   <!-- WakaTime双图表表格，宽度100%自适应，手机自动压缩 -->
   <table width="100%">
     <tr>
-      <td valign="top" style="padding:5px;">
+      <td>
         <img style="max-width:100%;height:auto;" alt="每日编码时长" src="https://wakatime.com/share/@oxn/8f4650ce-81d3-41b9-867b-10727fd07386.svg" />
       </td>
       <td valign="top" style="padding:5px;">
