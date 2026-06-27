@@ -3,7 +3,7 @@
   
   <!-- 顶部动态打字SVG，固定原始宽度435，不放大铺满 -->
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);偷小孙同学的，👆去他家！&center=true&size=27)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);偷小孙同学的，👆去他家！&center=true&size=27)](https://github.com/sun0225SUN/sun0225SUN/)
 
   <!-- 深浅模式自适应开发横幅，固定原始尺寸不放大 -->
   <picture>
@@ -256,14 +256,14 @@ No Activity Tracked This Week
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/github.webp">
 
 <picture>
   <!-- 深色模式 -->
