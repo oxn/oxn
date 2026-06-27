@@ -137,7 +137,7 @@ No Activity Tracked This Week
 </table>
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/hr.gif" />
 
 <div align="center">
 
