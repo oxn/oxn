@@ -36,7 +36,11 @@
 
   <!-- 留言板广告横幅100%自适应 + Buy Me A Coffee赞助按钮固定尺寸 -->
   
-  ![](./sponsors.png)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/cyghh.webp" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/cyghb.webp" />
+    <img style="max-width:100%;height:auto;" alt="GitHunNB" src="https://cdn.jsdelivr.net/gh/oxn/oxn/cyghz.webp" />
+  </picture>
 
   <div align="center">
     <a href="https://www.buymeacoffee.com/cycyhnb" target="_blank">
@@ -191,8 +195,8 @@ No Activity Tracked This Week
   <!-- WakaTime双图表表格，宽度100%自适应，手机自动压缩 -->
   <table>
     <tr>
-      <td><img style="max-width:100%;height:auto;" alt="每日编码时长" src="https://wakatime.com/share/@oxn/8f4650ce-81d3-41b9-867b-10727fd07386.svg" /></td>
-      <td><img style="max-width:100%;height:auto;" alt="编程语言占比" src="https://wakatime.com/share/@oxn/d01270af-f3d5-41e9-b357-290fcdfe7b0a.svg" /></td>
+   <img style="max-width:100%;height:auto;" alt="每日编码时长" src="https://wakatime.com/share/@oxn/8f4650ce-81d3-41b9-867b-10727fd07386.svg"/>
+  <img style="max-width:100%;height:auto;" alt="编程语言占比" src="https://wakatime.com/share/@oxn/d01270af-f3d5-41e9-b357-290fcdfe7b0a.svg"/>
     </tr>
   </table>
 </div>
