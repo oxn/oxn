@@ -124,14 +124,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/man_run.png" width="250" height="250" />
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=oxn&theme=dark&hide_border=true" />
