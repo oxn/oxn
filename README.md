@@ -16,15 +16,16 @@
 
   <!-- 社交账号、访客统计、WakaTime徽章集合 -->
 <div>
-  <a href="https://x.com/sun0225SUN"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://x.com/cycyhnb"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>
+  <a href="https://www.youtube.com/@怸歪"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>
+  <a href="https://cycy.fun"><img src="https://img.shields.io/badge/CYCY.FUN-小站-8c36db" /></a>
+  <a href="https://347777.xyz"><img src="https://img.shields.io/badge/347777.XYZ-博客-8c36db" /></a>
+  <a href="https://oxn.github.io/zz.html"><img src="https://img.shields.io/badge/$$$-打赏-07c160" /></a>
+  <a href="https://space.bilibili.com/3707012544202886/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://komarev.com/ghpvc/?username=oxn&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
-  <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+  <a href="https://wakatime.com/@oxn"><img src="https://wakatime.com/badge/user/e94a1dac-ef03-4ad8-a0d5-101dde104813.svg" /></a>
 </div>
 
   <!-- GitHub贡献贪吃蛇，宽度100%自适应 -->
