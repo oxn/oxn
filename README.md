@@ -1,6 +1,8 @@
 <!-- 首页顶部整体居中容器，整合标题、横幅、社交徽章、贪吃蛇、赞助横幅 -->
 <div align="center">
+  
   <!-- 顶部动态打字SVG，固定原始宽度435，不放大铺满 -->
+  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);偷小孙同学的，👆去他家！&center=true&size=27)](https://git.io/typing-svg)
 
   <!-- 深浅模式自适应开发横幅，固定原始尺寸不放大 -->
@@ -13,17 +15,17 @@
   <div>&nbsp;</div>
 
   <!-- 社交账号、访客统计、WakaTime徽章集合 -->
-  <div>
-    <a href="https://x.com/cycyhnb"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@怸歪"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://cycy.fun/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://776789.xyz/zz"><img src="https://img.shields.io/badge/￥￥￥$$$-资助-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/3707012544202886"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- 主页访问量徽章 -->
-    <img src="https://komarev.com/ghpvc/?username=oxn&label=Views&color=orange&style=flat" alt="主页访问量" />&emsp;
-    <!-- WakaTime编程时长徽章 -->
-    <a href="https://wakatime.com/@oxn"><img alt="WakaTime总时长" src="https://wakatime.com/badge/user/e94a1dac-ef03-4ad8-a0d5-101dde104813.svg" /></a>
-  </div>
+<div>
+  <a href="https://x.com/sun0225SUN"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+  <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <!-- wakatime -->
+  <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+</div>
 
   <!-- GitHub贡献贪吃蛇，宽度100%自适应 -->
   <picture>
@@ -35,6 +37,7 @@
   <!-- 留言板广告横幅100%自适应 + Buy Me A Coffee赞助按钮固定尺寸 -->
   
   ![](./sponsors.png)
+
   <div align="center">
     <a href="https://www.buymeacoffee.com/cycyhnb" target="_blank">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee 赞助按钮" height="60" width="217" />
@@ -199,7 +202,6 @@ No Activity Tracked This Week
 
 <div align="center">
   <img alt="人物插画" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/man.png" width="250" height="250" />
-</div>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
