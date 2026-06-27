@@ -1,7 +1,11 @@
+<!-- 首页顶部整体居中容器，整合标题、横幅、社交徽章、贪吃蛇、赞助横幅 -->
 <div align="center">
-    
+  
+  <!-- 顶部动态打字SVG，固定原始宽度435，不放大铺满 -->
+  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);偷小孙同学的，👆去他家！&center=true&size=27)](https://git.io/typing-svg)
 
+  <!-- 深浅模式自适应开发横幅，固定原始尺寸不放大 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/developer.svg" height="225px" />
@@ -10,6 +14,7 @@
 
   <div>&nbsp;</div>
 
+  <!-- 社交账号、访客统计、WakaTime徽章集合 -->
 <div>
   <a href="https://x.com/sun0225SUN"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
@@ -22,12 +27,15 @@
   <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 
+  <!-- GitHub贡献贪吃蛇，宽度100%自适应 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img style="max-width:100%;height:auto;" alt="GitHub贡献贪吃蛇" src="https://cdn.jsdelivr.net/gh/oxn/oxn/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
+  <!-- 留言板广告横幅100%自适应 + Buy Me A Coffee赞助按钮固定尺寸 -->
+  
   ![](./sponsors.png)
 
   <div align="center">
@@ -37,21 +45,22 @@
   </div>
 </div>
 
+<div>&nbsp;</div>
+
 
 #  🙋 你好！
-
 <table>
 
 <tr><td>
 
 ### 🤺 关于我：
 
-<img align="right" width="88" alt="xxx" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/jobs.png" />
+<img align="right" width="88" style="margin-left:14px;" alt="xxx" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;一个浑浑噩噩的八零后，网上都调侃我们：</p>
-&emsp;&emsp;上小学的时候，大学是不要钱的；上大学的时候，小学是不要钱的；
-<br>&emsp;&emsp;当他们没有参加工作的时候，工作是分配的；当他们参加工作的时候，打破脑袋才能勉强混一个糊口的工作；<br>&emsp;&emsp;当他们不挣钱的时候，房子是分配的；当他们挣钱的时候，房子也买不起了。
-<p>&emsp;&emsp;<strong>总之没有那一代人是最幸福的，也没有那一代人是最不幸的，活在当下知足常乐！</strong></p>
+&emsp;&emsp;上小学的时候，大学是不要钱的；上大学的时候，小学是不要钱的；</p>
+<p>&emsp;&emsp;当他们没有参加工作的时候，工作是分配的；当他们参加工作的时候，打破脑袋才能勉强混一个糊口的工作；</p>
+<p>&emsp;&emsp;当他们不挣钱的时候，房子是分配的；当他们挣钱的时候，房子也买不起了。<strong>总之没有那一代人是最幸福的，也没有那一代人是最不幸的，活在当下知足常乐！</strong></p>
 
 </tr></td>
 
@@ -59,7 +68,7 @@
 
 ### 📝 最新博客
 
-<img align="right" width="88" alt="xxx" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/astronaut.png" />
+<img align="right" width="88" style="margin-left:14px;" alt="xxx" src="https://cdn.jsdelivr.net/gh/oxn/oxn/assets/images/astronaut.png" />
 
 <!-- feed start -->
 - Jun 15 - [【分享】后知后觉最便宜的顶级域名XYZ，50多元就用10年，搭配Cloudflare有N王炸玩法](https://cycy.fun/2026/06/xyz50yuan/)
