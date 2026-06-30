@@ -1,27 +1,26 @@
-name: Waka Readme
-
+name: Waka Readme Stats
 on:
+  # 定时自动更新（每日0点）
   schedule:
     - cron: '0 0 * * *'
+  # 支持手动点击运行测试
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate WakaTime coding stats
+      - name: 更新WakaTime统计到README
         uses: anmol098/waka-readme-stats@master
         with:
+          # 密钥变量名和仓库Secret严格对应
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
+          GH_TOKEN: ${{ github.TOKEN }}
+          # 国内网络兼容，强制指定API地址
+          WAKATIME_API_URL: https://wakatime.com/api
+          # 可选配置，按需开启
           SHOW_LANGUAGE: true
           SHOW_EDITORS: true
           SHOW_OS: true
+          SHOW_PROJECTS: false
+          COMMIT_BY_ME: true
