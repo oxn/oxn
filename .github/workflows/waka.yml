@@ -1,25 +1,24 @@
-name: Waka Readme Stats
+name: Waka Readme
+
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
+  
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: 更新WakaTime统计到README
-        uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ github.TOKEN }}
-          WAKATIME_API_URL: https://wakatime.com/api
-          # 开启调试日志，打印完整API请求返回，排查403根源
-          DEBUG_LOGGING: true
-          SHOW_LANGUAGE: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_PROJECTS: false
-          COMMIT_BY_ME: true
-          # 强制强制覆盖README，避免缓存问题
-          FORCE_ADD: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE : "False"
+          SHOW_PROFILE_VIEWS : "False"
+          SHOW_LANGUAGE_PER_REPO : "False"
+          SHOW_LOC_CHART : "False"
+          SHOW_SHORT_INFO : "False"
+          SHOW_PROJECTS : "False"
+          SHOW_TOTAL_CODE_TIME : "False"
+          SHOW_TITLE : true
